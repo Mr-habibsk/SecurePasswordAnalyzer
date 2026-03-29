@@ -90,7 +90,7 @@ This project was created as a **Cyber Security learning project** to demonstrate
 
 ## 📸 Screenshot
 
-(Add screenshot of the software here)
+![Secure Password Analyzer](screenshot.png)
 
 ---
 
